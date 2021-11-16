@@ -1,11 +1,11 @@
 name: flutter_switch_plus
 description: Flutter switch控件加强版
-version: 0.0.1
+version: 1.0.0
 author: Guoxian Li
 homepage: https://yilanjingwang.blog.csdn.net
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
