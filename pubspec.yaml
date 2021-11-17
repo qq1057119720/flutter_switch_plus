@@ -3,7 +3,7 @@ description: Flutter switch控件加强版
 version: 1.0.0
 author: Guoxian Li
 homepage: https://yilanjingwang.blog.csdn.net
-
+repository: https://github.com/qq1057119720/flutter_switch_plus
 environment:
   sdk: ">=2.12.0 <3.0.0"
 
